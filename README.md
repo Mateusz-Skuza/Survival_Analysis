@@ -1,6 +1,4 @@
 # Survival Analysis
-Collection of academic reports for a Survival Analysis course implemented in R
-
 
 ## Report 1
 This project focused on simulating survival data using the Exponentiated-Weibull distribution. Functions were developed to generate random variables and test different data censoring mechanisms, such as Type I, Type II, and random censoring, to observe their impact on survival results.
