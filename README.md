@@ -1,6 +1,6 @@
 # Survival Analysis
+Collection of academic reports for a Survival Analysis course implemented in R
 
-This repository contains a series of projects and reports focused on the statistical analysis of survival data. The projects analyze simulated data and real medical datasets, including `lung` and `ovarian` cancer records and drug remission data.
 
 ## Report 1
 This project focused on simulating survival data using the Exponentiated-Weibull distribution. Functions were developed to generate random variables and test different data censoring mechanisms, such as Type I, Type II, and random censoring, to observe their impact on survival results.
