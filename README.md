@@ -1,5 +1,4 @@
 # Survival Analysis
-**Collection of reports for Survival Analysis and Time Series Analysis courses implemented in R.**
 
 This repository contains a series of projects and reports focused on the statistical analysis of survival data. The projects analyze simulated data and real medical datasets, including `lung` and `ovarian` cancer records and drug remission data.
 
